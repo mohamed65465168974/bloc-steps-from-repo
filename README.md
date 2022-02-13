@@ -2,11 +2,11 @@
 
 
 ## set up flutter for firebase
-### 1 - create a method to convert data snap shot received from firebase to instance of the model class
-### 2- create a repo class for each collection inside firebase 
-### 3- create instance of `FirebaseFirestore` class 
-### 4- initialize instance of `FirebaseFirestore` variable in the constructor 
-### 5- use instance of `FirebaseFirestore` variable to retrieve collection and map it is data using `fromSnapshot` method to model class 
+###### 1 - create a method to convert data snap shot received from firebase to instance of the model class
+###### 2- create a repo class for each collection inside firebase 
+###### 3- create instance of `FirebaseFirestore` class 
+###### 4- initialize instance of `FirebaseFirestore` variable in the constructor 
+###### 5- use instance of `FirebaseFirestore` variable to retrieve collection and map it is data using `fromSnapshot` method to model class 
 
 ## create states
 ###### 1 - create abstract class 
